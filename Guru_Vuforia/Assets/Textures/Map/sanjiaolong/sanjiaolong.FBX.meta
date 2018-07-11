@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 5baa06da8ea32f246ac868e6d9a006e1
+timeCreated: 1494654060
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Foot
+    100012: Bip001 L Forearm
+    100014: Bip001 L Hand
+    100016: Bip001 L Thigh
+    100018: Bip001 L Toe0
+    100020: Bip001 L UpperArm
+    100022: Bip001 Neck
+    100024: Bip001 Pelvis
+    100026: Bip001 R Calf
+    100028: Bip001 R Clavicle
+    100030: Bip001 R Finger0
+    100032: Bip001 R Foot
+    100034: Bip001 R Forearm
+    100036: Bip001 R Hand
+    100038: Bip001 R Thigh
+    100040: Bip001 R Toe0
+    100042: Bip001 R UpperArm
+    100044: Bip001 Spine
+    100046: Bip001 Spine1
+    100048: Bone001
+    100050: Bone002
+    100052: Bone003
+    100054: Bone004
+    100056: Bone005
+    100058: Bone006
+    100060: c0032sanjiao_model100_geo
+    100062: c0032sanjiao_model101_geo
+    100064: c0032sanjiao_model102_geo
+    100066: c0032sanjiao_model103_geo
+    100068: c0032sanjiao_model104_geo
+    100070: c0032sanjiao_model105_geo
+    100072: c0032sanjiao_model106_geo
+    100074: c0032sanjiao_model107_geo
+    100076: c0032sanjiao_model108_geo
+    100078: c0032sanjiao_model109_geo
+    100080: c0032sanjiao_model10_geo1
+    100082: c0032sanjiao_model110_geo
+    100084: c0032sanjiao_model111_geo
+    100086: c0032sanjiao_model112_geo
+    100088: c0032sanjiao_model113_geo
+    100090: c0032sanjiao_model114_geo
+    100092: c0032sanjiao_model115_geo
+    100094: c0032sanjiao_model116_geo
+    100096: c0032sanjiao_model11_geo1
+    100098: c0032sanjiao_model12_geo1
+    100100: c0032sanjiao_model13_geo1
+    100102: c0032sanjiao_model14_geo1
+    100104: c0032sanjiao_model15_geo1
+    100106: c0032sanjiao_model16_geo1
+    100108: c0032sanjiao_model17_geo1
+    100110: c0032sanjiao_model18_geo1
+    100112: c0032sanjiao_model19_geo1
+    100114: c0032sanjiao_model1_geo1
+    100116: c0032sanjiao_model20_geo1
+    100118: c0032sanjiao_model21_geo1
+    100120: c0032sanjiao_model22_geo1
+    100122: c0032sanjiao_model23_geo1
+    100124: c0032sanjiao_model24_geo1
+    100126: c0032sanjiao_model25_geo1
+    100128: c0032sanjiao_model26_geo1
+    100130: c0032sanjiao_model27_geo1
+    100132: c0032sanjiao_model28_geo1
+    100134: c0032sanjiao_model29_geo1
+    100136: c0032sanjiao_model2_geo002
+    100138: c0032sanjiao_model2_geo1
+    100140: c0032sanjiao_model30_geo1
+    100142: c0032sanjiao_model31_geo1
+    100144: c0032sanjiao_model32_geo1
+    100146: c0032sanjiao_model33_geo1
+    100148: c0032sanjiao_model34_geo1
+    100150: c0032sanjiao_model35_geo1
+    100152: c0032sanjiao_model36_geo1
+    100154: c0032sanjiao_model37_geo1
+    100156: c0032sanjiao_model38_geo
+    100158: c0032sanjiao_model39_geo
+    100160: c0032sanjiao_model40_geo
+    100162: c0032sanjiao_model41_geo
+    100164: c0032sanjiao_model42_geo
+    100166: c0032sanjiao_model43_geo
+    100168: c0032sanjiao_model44_geo
+    100170: c0032sanjiao_model45_geo
+    100172: c0032sanjiao_model46_geo
+    100174: c0032sanjiao_model47_geo
+    100176: c0032sanjiao_model48_geo
+    100178: c0032sanjiao_model49_geo
+    100180: c0032sanjiao_model4_geo1
+    100182: c0032sanjiao_model50_geo
+    100184: c0032sanjiao_model51_geo
+    100186: c0032sanjiao_model52_geo
+    100188: c0032sanjiao_model53_geo
+    100190: c0032sanjiao_model54_geo
+    100192: c0032sanjiao_model55_geo
+    100194: c0032sanjiao_model56_geo
+    100196: c0032sanjiao_model57_geo
+    100198: c0032sanjiao_model58_geo
+    100200: c0032sanjiao_model59_geo
+    100202: c0032sanjiao_model5_geo1
+    100204: c0032sanjiao_model60_geo
+    100206: c0032sanjiao_model61_geo
+    100208: c0032sanjiao_model62_geo
+    100210: c0032sanjiao_model63_geo
+    100212: c0032sanjiao_model64_geo
+    100214: c0032sanjiao_model65_geo
+    100216: c0032sanjiao_model66_geo
+    100218: c0032sanjiao_model67_geo
+    100220: c0032sanjiao_model68_geo
+    100222: c0032sanjiao_model69_geo
+    100224: c0032sanjiao_model6_geo1
+    100226: c0032sanjiao_model70_geo
+    100228: c0032sanjiao_model71_geo
+    100230: c0032sanjiao_model72_geo
+    100232: c0032sanjiao_model73_geo
+    100234: c0032sanjiao_model74_geo
+    100236: c0032sanjiao_model75_geo
+    100238: c0032sanjiao_model76_geo
+    100240: c0032sanjiao_model77_geo
+    100242: c0032sanjiao_model78_geo
+    100244: c0032sanjiao_model79_geo
+    100246: c0032sanjiao_model7_geo1
+    100248: c0032sanjiao_model80_geo
+    100250: c0032sanjiao_model81_geo
+    100252: c0032sanjiao_model82_geo
+    100254: c0032sanjiao_model83_geo
+    100256: c0032sanjiao_model84_geo
+    100258: c0032sanjiao_model85_geo
+    100260: c0032sanjiao_model86_geo
+    100262: c0032sanjiao_model87_geo
+    100264: c0032sanjiao_model88_geo
+    100266: c0032sanjiao_model89_geo
+    100268: c0032sanjiao_model8_geo1
+    100270: c0032sanjiao_model90_geo
+    100272: c0032sanjiao_model91_geo
+    100274: c0032sanjiao_model92_geo
+    100276: c0032sanjiao_model93_geo
+    100278: c0032sanjiao_model94_geo
+    100280: c0032sanjiao_model95_geo
+    100282: c0032sanjiao_model96_geo
+    100284: c0032sanjiao_model97_geo
+    100286: c0032sanjiao_model98_geo
+    100288: c0032sanjiao_model99_geo
+    100290: c0032sanjiao_model9_geo1
+    100292: Dummy001
+    100294: Dummy002
+    100296: //RootNode
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Foot
+    400012: Bip001 L Forearm
+    400014: Bip001 L Hand
+    400016: Bip001 L Thigh
+    400018: Bip001 L Toe0
+    400020: Bip001 L UpperArm
+    400022: Bip001 Neck
+    400024: Bip001 Pelvis
+    400026: Bip001 R Calf
+    400028: Bip001 R Clavicle
+    400030: Bip001 R Finger0
+    400032: Bip001 R Foot
+    400034: Bip001 R Forearm
+    400036: Bip001 R Hand
+    400038: Bip001 R Thigh
+    400040: Bip001 R Toe0
+    400042: Bip001 R UpperArm
+    400044: Bip001 Spine
+    400046: Bip001 Spine1
+    400048: Bone001
+    400050: Bone002
+    400052: Bone003
+    400054: Bone004
+    400056: Bone005
+    400058: Bone006
+    400060: c0032sanjiao_model100_geo
+    400062: c0032sanjiao_model101_geo
+    400064: c0032sanjiao_model102_geo
+    400066: c0032sanjiao_model103_geo
+    400068: c0032sanjiao_model104_geo
+    400070: c0032sanjiao_model105_geo
+    400072: c0032sanjiao_model106_geo
+    400074: c0032sanjiao_model107_geo
+    400076: c0032sanjiao_model108_geo
+    400078: c0032sanjiao_model109_geo
+    400080: c0032sanjiao_model10_geo1
+    400082: c0032sanjiao_model110_geo
+    400084: c0032sanjiao_model111_geo
+    400086: c0032sanjiao_model112_geo
+    400088: c0032sanjiao_model113_geo
+    400090: c0032sanjiao_model114_geo
+    400092: c0032sanjiao_model115_geo
+    400094: c0032sanjiao_model116_geo
+    400096: c0032sanjiao_model11_geo1
+    400098: c0032sanjiao_model12_geo1
+    400100: c0032sanjiao_model13_geo1
+    400102: c0032sanjiao_model14_geo1
+    400104: c0032sanjiao_model15_geo1
+    400106: c0032sanjiao_model16_geo1
+    400108: c0032sanjiao_model17_geo1
+    400110: c0032sanjiao_model18_geo1
+    400112: c0032sanjiao_model19_geo1
+    400114: c0032sanjiao_model1_geo1
+    400116: c0032sanjiao_model20_geo1
+    400118: c0032sanjiao_model21_geo1
+    400120: c0032sanjiao_model22_geo1
+    400122: c0032sanjiao_model23_geo1
+    400124: c0032sanjiao_model24_geo1
+    400126: c0032sanjiao_model25_geo1
+    400128: c0032sanjiao_model26_geo1
+    400130: c0032sanjiao_model27_geo1
+    400132: c0032sanjiao_model28_geo1
+    400134: c0032sanjiao_model29_geo1
+    400136: c0032sanjiao_model2_geo002
+    400138: c0032sanjiao_model2_geo1
+    400140: c0032sanjiao_model30_geo1
+    400142: c0032sanjiao_model31_geo1
+    400144: c0032sanjiao_model32_geo1
+    400146: c0032sanjiao_model33_geo1
+    400148: c0032sanjiao_model34_geo1
+    400150: c0032sanjiao_model35_geo1
+    400152: c0032sanjiao_model36_geo1
+    400154: c0032sanjiao_model37_geo1
+    400156: c0032sanjiao_model38_geo
+    400158: c0032sanjiao_model39_geo
+    400160: c0032sanjiao_model40_geo
+    400162: c0032sanjiao_model41_geo
+    400164: c0032sanjiao_model42_geo
+    400166: c0032sanjiao_model43_geo
+    400168: c0032sanjiao_model44_geo
+    400170: c0032sanjiao_model45_geo
+    400172: c0032sanjiao_model46_geo
+    400174: c0032sanjiao_model47_geo
+    400176: c0032sanjiao_model48_geo
+    400178: c0032sanjiao_model49_geo
+    400180: c0032sanjiao_model4_geo1
+    400182: c0032sanjiao_model50_geo
+    400184: c0032sanjiao_model51_geo
+    400186: c0032sanjiao_model52_geo
+    400188: c0032sanjiao_model53_geo
+    400190: c0032sanjiao_model54_geo
+    400192: c0032sanjiao_model55_geo
+    400194: c0032sanjiao_model56_geo
+    400196: c0032sanjiao_model57_geo
+    400198: c0032sanjiao_model58_geo
+    400200: c0032sanjiao_model59_geo
+    400202: c0032sanjiao_model5_geo1
+    400204: c0032sanjiao_model60_geo
+    400206: c0032sanjiao_model61_geo
+    400208: c0032sanjiao_model62_geo
+    400210: c0032sanjiao_model63_geo
+    400212: c0032sanjiao_model64_geo
+    400214: c0032sanjiao_model65_geo
+    400216: c0032sanjiao_model66_geo
+    400218: c0032sanjiao_model67_geo
+    400220: c0032sanjiao_model68_geo
+    400222: c0032sanjiao_model69_geo
+    400224: c0032sanjiao_model6_geo1
+    400226: c0032sanjiao_model70_geo
+    400228: c0032sanjiao_model71_geo
+    400230: c0032sanjiao_model72_geo
+    400232: c0032sanjiao_model73_geo
+    400234: c0032sanjiao_model74_geo
+    400236: c0032sanjiao_model75_geo
+    400238: c0032sanjiao_model76_geo
+    400240: c0032sanjiao_model77_geo
+    400242: c0032sanjiao_model78_geo
+    400244: c0032sanjiao_model79_geo
+    400246: c0032sanjiao_model7_geo1
+    400248: c0032sanjiao_model80_geo
+    400250: c0032sanjiao_model81_geo
+    400252: c0032sanjiao_model82_geo
+    400254: c0032sanjiao_model83_geo
+    400256: c0032sanjiao_model84_geo
+    400258: c0032sanjiao_model85_geo
+    400260: c0032sanjiao_model86_geo
+    400262: c0032sanjiao_model87_geo
+    400264: c0032sanjiao_model88_geo
+    400266: c0032sanjiao_model89_geo
+    400268: c0032sanjiao_model8_geo1
+    400270: c0032sanjiao_model90_geo
+    400272: c0032sanjiao_model91_geo
+    400274: c0032sanjiao_model92_geo
+    400276: c0032sanjiao_model93_geo
+    400278: c0032sanjiao_model94_geo
+    400280: c0032sanjiao_model95_geo
+    400282: c0032sanjiao_model96_geo
+    400284: c0032sanjiao_model97_geo
+    400286: c0032sanjiao_model98_geo
+    400288: c0032sanjiao_model99_geo
+    400290: c0032sanjiao_model9_geo1
+    400292: Dummy001
+    400294: Dummy002
+    400296: //RootNode
+    4300000: c0032sanjiao_model116_geo
+    4300002: c0032sanjiao_model115_geo
+    4300004: c0032sanjiao_model114_geo
+    4300006: c0032sanjiao_model113_geo
+    4300008: c0032sanjiao_model112_geo
+    4300010: c0032sanjiao_model111_geo
+    4300012: c0032sanjiao_model110_geo
+    4300014: c0032sanjiao_model109_geo
+    4300016: c0032sanjiao_model108_geo
+    4300018: c0032sanjiao_model107_geo
+    4300020: c0032sanjiao_model106_geo
+    4300022: c0032sanjiao_model105_geo
+    4300024: c0032sanjiao_model104_geo
+    4300026: c0032sanjiao_model103_geo
+    4300028: c0032sanjiao_model102_geo
+    4300030: c0032sanjiao_model101_geo
+    4300032: c0032sanjiao_model100_geo
+    4300034: c0032sanjiao_model99_geo
+    4300036: c0032sanjiao_model98_geo
+    4300038: c0032sanjiao_model97_geo
+    4300040: c0032sanjiao_model96_geo
+    4300042: c0032sanjiao_model95_geo
+    4300044: c0032sanjiao_model94_geo
+    4300046: c0032sanjiao_model93_geo
+    4300048: c0032sanjiao_model92_geo
+    4300050: c0032sanjiao_model91_geo
+    4300052: c0032sanjiao_model90_geo
+    4300054: c0032sanjiao_model89_geo
+    4300056: c0032sanjiao_model88_geo
+    4300058: c0032sanjiao_model87_geo
+    4300060: c0032sanjiao_model86_geo
+    4300062: c0032sanjiao_model85_geo
+    4300064: c0032sanjiao_model84_geo
+    4300066: c0032sanjiao_model83_geo
+    4300068: c0032sanjiao_model82_geo
+    4300070: c0032sanjiao_model81_geo
+    4300072: c0032sanjiao_model80_geo
+    4300074: c0032sanjiao_model79_geo
+    4300076: c0032sanjiao_model78_geo
+    4300078: c0032sanjiao_model77_geo
+    4300080: c0032sanjiao_model76_geo
+    4300082: c0032sanjiao_model40_geo
+    4300084: c0032sanjiao_model39_geo
+    4300086: c0032sanjiao_model38_geo
+    4300088: c0032sanjiao_model37_geo1
+    4300090: c0032sanjiao_model36_geo1
+    4300092: c0032sanjiao_model35_geo1
+    4300094: c0032sanjiao_model34_geo1
+    4300096: c0032sanjiao_model33_geo1
+    4300098: c0032sanjiao_model32_geo1
+    4300100: c0032sanjiao_model31_geo1
+    4300102: c0032sanjiao_model30_geo1
+    4300104: c0032sanjiao_model29_geo1
+    4300106: c0032sanjiao_model28_geo1
+    4300108: c0032sanjiao_model27_geo1
+    4300110: c0032sanjiao_model26_geo1
+    4300112: c0032sanjiao_model25_geo1
+    4300114: c0032sanjiao_model24_geo1
+    4300116: c0032sanjiao_model23_geo1
+    4300118: c0032sanjiao_model22_geo1
+    4300120: c0032sanjiao_model21_geo1
+    4300122: c0032sanjiao_model20_geo1
+    4300124: c0032sanjiao_model19_geo1
+    4300126: c0032sanjiao_model18_geo1
+    4300128: c0032sanjiao_model17_geo1
+    4300130: c0032sanjiao_model16_geo1
+    4300132: c0032sanjiao_model15_geo1
+    4300134: c0032sanjiao_model14_geo1
+    4300136: c0032sanjiao_model13_geo1
+    4300138: c0032sanjiao_model12_geo1
+    4300140: c0032sanjiao_model11_geo1
+    4300142: c0032sanjiao_model10_geo1
+    4300144: c0032sanjiao_model9_geo1
+    4300146: c0032sanjiao_model8_geo1
+    4300148: c0032sanjiao_model7_geo1
+    4300150: c0032sanjiao_model6_geo1
+    4300152: c0032sanjiao_model5_geo1
+    4300154: c0032sanjiao_model2_geo1
+    4300156: c0032sanjiao_model2_geo002
+    4300158: c0032sanjiao_model4_geo1
+    4300160: c0032sanjiao_model1_geo1
+    4300162: c0032sanjiao_model75_geo
+    4300164: c0032sanjiao_model41_geo
+    4300166: c0032sanjiao_model42_geo
+    4300168: c0032sanjiao_model43_geo
+    4300170: c0032sanjiao_model44_geo
+    4300172: c0032sanjiao_model45_geo
+    4300174: c0032sanjiao_model46_geo
+    4300176: c0032sanjiao_model47_geo
+    4300178: c0032sanjiao_model48_geo
+    4300180: c0032sanjiao_model49_geo
+    4300182: c0032sanjiao_model50_geo
+    4300184: c0032sanjiao_model51_geo
+    4300186: c0032sanjiao_model52_geo
+    4300188: c0032sanjiao_model53_geo
+    4300190: c0032sanjiao_model54_geo
+    4300192: c0032sanjiao_model55_geo
+    4300194: c0032sanjiao_model56_geo
+    4300196: c0032sanjiao_model57_geo
+    4300198: c0032sanjiao_model58_geo
+    4300200: c0032sanjiao_model59_geo
+    4300202: c0032sanjiao_model60_geo
+    4300204: c0032sanjiao_model61_geo
+    4300206: c0032sanjiao_model62_geo
+    4300208: c0032sanjiao_model63_geo
+    4300210: c0032sanjiao_model64_geo
+    4300212: c0032sanjiao_model65_geo
+    4300214: c0032sanjiao_model66_geo
+    4300216: c0032sanjiao_model67_geo
+    4300218: c0032sanjiao_model68_geo
+    4300220: c0032sanjiao_model69_geo
+    4300222: c0032sanjiao_model70_geo
+    4300224: c0032sanjiao_model71_geo
+    4300226: c0032sanjiao_model72_geo
+    4300228: c0032sanjiao_model73_geo
+    4300230: c0032sanjiao_model74_geo
+    7400000: clickanim
+    7400002: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: c0032sanjiao_model100_geo
+    13700002: c0032sanjiao_model101_geo
+    13700004: c0032sanjiao_model102_geo
+    13700006: c0032sanjiao_model103_geo
+    13700008: c0032sanjiao_model104_geo
+    13700010: c0032sanjiao_model105_geo
+    13700012: c0032sanjiao_model106_geo
+    13700014: c0032sanjiao_model107_geo
+    13700016: c0032sanjiao_model108_geo
+    13700018: c0032sanjiao_model109_geo
+    13700020: c0032sanjiao_model10_geo1
+    13700022: c0032sanjiao_model110_geo
+    13700024: c0032sanjiao_model111_geo
+    13700026: c0032sanjiao_model112_geo
+    13700028: c0032sanjiao_model113_geo
+    13700030: c0032sanjiao_model114_geo
+    13700032: c0032sanjiao_model115_geo
+    13700034: c0032sanjiao_model116_geo
+    13700036: c0032sanjiao_model11_geo1
+    13700038: c0032sanjiao_model12_geo1
+    13700040: c0032sanjiao_model13_geo1
+    13700042: c0032sanjiao_model14_geo1
+    13700044: c0032sanjiao_model15_geo1
+    13700046: c0032sanjiao_model16_geo1
+    13700048: c0032sanjiao_model17_geo1
+    13700050: c0032sanjiao_model18_geo1
+    13700052: c0032sanjiao_model19_geo1
+    13700054: c0032sanjiao_model1_geo1
+    13700056: c0032sanjiao_model20_geo1
+    13700058: c0032sanjiao_model21_geo1
+    13700060: c0032sanjiao_model22_geo1
+    13700062: c0032sanjiao_model23_geo1
+    13700064: c0032sanjiao_model24_geo1
+    13700066: c0032sanjiao_model25_geo1
+    13700068: c0032sanjiao_model26_geo1
+    13700070: c0032sanjiao_model27_geo1
+    13700072: c0032sanjiao_model28_geo1
+    13700074: c0032sanjiao_model29_geo1
+    13700076: c0032sanjiao_model2_geo002
+    13700078: c0032sanjiao_model2_geo1
+    13700080: c0032sanjiao_model30_geo1
+    13700082: c0032sanjiao_model31_geo1
+    13700084: c0032sanjiao_model32_geo1
+    13700086: c0032sanjiao_model33_geo1
+    13700088: c0032sanjiao_model34_geo1
+    13700090: c0032sanjiao_model35_geo1
+    13700092: c0032sanjiao_model36_geo1
+    13700094: c0032sanjiao_model37_geo1
+    13700096: c0032sanjiao_model38_geo
+    13700098: c0032sanjiao_model39_geo
+    13700100: c0032sanjiao_model40_geo
+    13700102: c0032sanjiao_model41_geo
+    13700104: c0032sanjiao_model42_geo
+    13700106: c0032sanjiao_model43_geo
+    13700108: c0032sanjiao_model44_geo
+    13700110: c0032sanjiao_model45_geo
+    13700112: c0032sanjiao_model46_geo
+    13700114: c0032sanjiao_model47_geo
+    13700116: c0032sanjiao_model48_geo
+    13700118: c0032sanjiao_model49_geo
+    13700120: c0032sanjiao_model4_geo1
+    13700122: c0032sanjiao_model50_geo
+    13700124: c0032sanjiao_model51_geo
+    13700126: c0032sanjiao_model52_geo
+    13700128: c0032sanjiao_model53_geo
+    13700130: c0032sanjiao_model54_geo
+    13700132: c0032sanjiao_model55_geo
+    13700134: c0032sanjiao_model56_geo
+    13700136: c0032sanjiao_model57_geo
+    13700138: c0032sanjiao_model58_geo
+    13700140: c0032sanjiao_model59_geo
+    13700142: c0032sanjiao_model5_geo1
+    13700144: c0032sanjiao_model60_geo
+    13700146: c0032sanjiao_model61_geo
+    13700148: c0032sanjiao_model62_geo
+    13700150: c0032sanjiao_model63_geo
+    13700152: c0032sanjiao_model64_geo
+    13700154: c0032sanjiao_model65_geo
+    13700156: c0032sanjiao_model66_geo
+    13700158: c0032sanjiao_model67_geo
+    13700160: c0032sanjiao_model68_geo
+    13700162: c0032sanjiao_model69_geo
+    13700164: c0032sanjiao_model6_geo1
+    13700166: c0032sanjiao_model70_geo
+    13700168: c0032sanjiao_model71_geo
+    13700170: c0032sanjiao_model72_geo
+    13700172: c0032sanjiao_model73_geo
+    13700174: c0032sanjiao_model74_geo
+    13700176: c0032sanjiao_model75_geo
+    13700178: c0032sanjiao_model76_geo
+    13700180: c0032sanjiao_model77_geo
+    13700182: c0032sanjiao_model78_geo
+    13700184: c0032sanjiao_model79_geo
+    13700186: c0032sanjiao_model7_geo1
+    13700188: c0032sanjiao_model80_geo
+    13700190: c0032sanjiao_model81_geo
+    13700192: c0032sanjiao_model82_geo
+    13700194: c0032sanjiao_model83_geo
+    13700196: c0032sanjiao_model84_geo
+    13700198: c0032sanjiao_model85_geo
+    13700200: c0032sanjiao_model86_geo
+    13700202: c0032sanjiao_model87_geo
+    13700204: c0032sanjiao_model88_geo
+    13700206: c0032sanjiao_model89_geo
+    13700208: c0032sanjiao_model8_geo1
+    13700210: c0032sanjiao_model90_geo
+    13700212: c0032sanjiao_model91_geo
+    13700214: c0032sanjiao_model92_geo
+    13700216: c0032sanjiao_model93_geo
+    13700218: c0032sanjiao_model94_geo
+    13700220: c0032sanjiao_model95_geo
+    13700222: c0032sanjiao_model96_geo
+    13700224: c0032sanjiao_model97_geo
+    13700226: c0032sanjiao_model98_geo
+    13700228: c0032sanjiao_model99_geo
+    13700230: c0032sanjiao_model9_geo1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: d9c13049e57241d4eb9635ebafeb8508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5'
+    second: {fileID: 2100000, guid: b0aea3e3797e10541bab59e79c8bac06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: f0f9e7ee94d43e943bad3299258ad321, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: clickanim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Bone006
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/c0032sanjiao_model4_geo1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Dummy001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Dummy002
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/c0032sanjiao_model1_geo1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004/Bone005/Bone002
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/c0032sanjiao_model75_geo
+        weight: 1
+      - path: c0032sanjiao_model2_geo1
+        weight: 1
+      - path: c0032sanjiao_model2_geo002
+        weight: 1
+      - path: c0032sanjiao_model5_geo1
+        weight: 1
+      - path: c0032sanjiao_model6_geo1
+        weight: 1
+      - path: c0032sanjiao_model7_geo1
+        weight: 1
+      - path: c0032sanjiao_model8_geo1
+        weight: 1
+      - path: c0032sanjiao_model9_geo1
+        weight: 1
+      - path: c0032sanjiao_model10_geo1
+        weight: 1
+      - path: c0032sanjiao_model11_geo1
+        weight: 1
+      - path: c0032sanjiao_model12_geo1
+        weight: 1
+      - path: c0032sanjiao_model13_geo1
+        weight: 1
+      - path: c0032sanjiao_model14_geo1
+        weight: 1
+      - path: c0032sanjiao_model15_geo1
+        weight: 1
+      - path: c0032sanjiao_model16_geo1
+        weight: 1
+      - path: c0032sanjiao_model17_geo1
+        weight: 1
+      - path: c0032sanjiao_model18_geo1
+        weight: 1
+      - path: c0032sanjiao_model19_geo1
+        weight: 1
+      - path: c0032sanjiao_model20_geo1
+        weight: 1
+      - path: c0032sanjiao_model21_geo1
+        weight: 1
+      - path: c0032sanjiao_model22_geo1
+        weight: 1
+      - path: c0032sanjiao_model23_geo1
+        weight: 1
+      - path: c0032sanjiao_model24_geo1
+        weight: 1
+      - path: c0032sanjiao_model25_geo1
+        weight: 1
+      - path: c0032sanjiao_model26_geo1
+        weight: 1
+      - path: c0032sanjiao_model27_geo1
+        weight: 1
+      - path: c0032sanjiao_model28_geo1
+        weight: 1
+      - path: c0032sanjiao_model29_geo1
+        weight: 1
+      - path: c0032sanjiao_model30_geo1
+        weight: 1
+      - path: c0032sanjiao_model31_geo1
+        weight: 1
+      - path: c0032sanjiao_model32_geo1
+        weight: 1
+      - path: c0032sanjiao_model33_geo1
+        weight: 1
+      - path: c0032sanjiao_model34_geo1
+        weight: 1
+      - path: c0032sanjiao_model35_geo1
+        weight: 1
+      - path: c0032sanjiao_model36_geo1
+        weight: 1
+      - path: c0032sanjiao_model37_geo1
+        weight: 1
+      - path: c0032sanjiao_model38_geo
+        weight: 1
+      - path: c0032sanjiao_model39_geo
+        weight: 1
+      - path: c0032sanjiao_model40_geo
+        weight: 1
+      - path: c0032sanjiao_model41_geo
+        weight: 1
+      - path: c0032sanjiao_model42_geo
+        weight: 1
+      - path: c0032sanjiao_model43_geo
+        weight: 1
+      - path: c0032sanjiao_model44_geo
+        weight: 1
+      - path: c0032sanjiao_model45_geo
+        weight: 1
+      - path: c0032sanjiao_model46_geo
+        weight: 1
+      - path: c0032sanjiao_model47_geo
+        weight: 1
+      - path: c0032sanjiao_model48_geo
+        weight: 1
+      - path: c0032sanjiao_model49_geo
+        weight: 1
+      - path: c0032sanjiao_model50_geo
+        weight: 1
+      - path: c0032sanjiao_model51_geo
+        weight: 1
+      - path: c0032sanjiao_model52_geo
+        weight: 1
+      - path: c0032sanjiao_model53_geo
+        weight: 1
+      - path: c0032sanjiao_model54_geo
+        weight: 1
+      - path: c0032sanjiao_model55_geo
+        weight: 1
+      - path: c0032sanjiao_model56_geo
+        weight: 1
+      - path: c0032sanjiao_model57_geo
+        weight: 1
+      - path: c0032sanjiao_model58_geo
+        weight: 1
+      - path: c0032sanjiao_model59_geo
+        weight: 1
+      - path: c0032sanjiao_model60_geo
+        weight: 1
+      - path: c0032sanjiao_model61_geo
+        weight: 1
+      - path: c0032sanjiao_model62_geo
+        weight: 1
+      - path: c0032sanjiao_model63_geo
+        weight: 1
+      - path: c0032sanjiao_model64_geo
+        weight: 1
+      - path: c0032sanjiao_model65_geo
+        weight: 1
+      - path: c0032sanjiao_model66_geo
+        weight: 1
+      - path: c0032sanjiao_model67_geo
+        weight: 1
+      - path: c0032sanjiao_model68_geo
+        weight: 1
+      - path: c0032sanjiao_model69_geo
+        weight: 1
+      - path: c0032sanjiao_model70_geo
+        weight: 1
+      - path: c0032sanjiao_model71_geo
+        weight: 1
+      - path: c0032sanjiao_model72_geo
+        weight: 1
+      - path: c0032sanjiao_model73_geo
+        weight: 1
+      - path: c0032sanjiao_model74_geo
+        weight: 1
+      - path: c0032sanjiao_model76_geo
+        weight: 1
+      - path: c0032sanjiao_model77_geo
+        weight: 1
+      - path: c0032sanjiao_model78_geo
+        weight: 1
+      - path: c0032sanjiao_model79_geo
+        weight: 1
+      - path: c0032sanjiao_model80_geo
+        weight: 1
+      - path: c0032sanjiao_model81_geo
+        weight: 1
+      - path: c0032sanjiao_model82_geo
+        weight: 1
+      - path: c0032sanjiao_model83_geo
+        weight: 1
+      - path: c0032sanjiao_model84_geo
+        weight: 1
+      - path: c0032sanjiao_model85_geo
+        weight: 1
+      - path: c0032sanjiao_model86_geo
+        weight: 1
+      - path: c0032sanjiao_model87_geo
+        weight: 1
+      - path: c0032sanjiao_model88_geo
+        weight: 1
+      - path: c0032sanjiao_model89_geo
+        weight: 1
+      - path: c0032sanjiao_model90_geo
+        weight: 1
+      - path: c0032sanjiao_model91_geo
+        weight: 1
+      - path: c0032sanjiao_model92_geo
+        weight: 1
+      - path: c0032sanjiao_model93_geo
+        weight: 1
+      - path: c0032sanjiao_model94_geo
+        weight: 1
+      - path: c0032sanjiao_model95_geo
+        weight: 1
+      - path: c0032sanjiao_model96_geo
+        weight: 1
+      - path: c0032sanjiao_model97_geo
+        weight: 1
+      - path: c0032sanjiao_model98_geo
+        weight: 1
+      - path: c0032sanjiao_model99_geo
+        weight: 1
+      - path: c0032sanjiao_model100_geo
+        weight: 1
+      - path: c0032sanjiao_model101_geo
+        weight: 1
+      - path: c0032sanjiao_model102_geo
+        weight: 1
+      - path: c0032sanjiao_model103_geo
+        weight: 1
+      - path: c0032sanjiao_model104_geo
+        weight: 1
+      - path: c0032sanjiao_model105_geo
+        weight: 1
+      - path: c0032sanjiao_model106_geo
+        weight: 1
+      - path: c0032sanjiao_model107_geo
+        weight: 1
+      - path: c0032sanjiao_model108_geo
+        weight: 1
+      - path: c0032sanjiao_model109_geo
+        weight: 1
+      - path: c0032sanjiao_model110_geo
+        weight: 1
+      - path: c0032sanjiao_model111_geo
+        weight: 1
+      - path: c0032sanjiao_model112_geo
+        weight: 1
+      - path: c0032sanjiao_model113_geo
+        weight: 1
+      - path: c0032sanjiao_model114_geo
+        weight: 1
+      - path: c0032sanjiao_model115_geo
+        weight: 1
+      - path: c0032sanjiao_model116_geo
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 140
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Bone006
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/c0032sanjiao_model4_geo1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Dummy001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Dummy002
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/c0032sanjiao_model1_geo1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone001/Bone003/Bone004/Bone005/Bone002
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/c0032sanjiao_model75_geo
+        weight: 1
+      - path: c0032sanjiao_model2_geo1
+        weight: 1
+      - path: c0032sanjiao_model2_geo002
+        weight: 1
+      - path: c0032sanjiao_model5_geo1
+        weight: 1
+      - path: c0032sanjiao_model6_geo1
+        weight: 1
+      - path: c0032sanjiao_model7_geo1
+        weight: 1
+      - path: c0032sanjiao_model8_geo1
+        weight: 1
+      - path: c0032sanjiao_model9_geo1
+        weight: 1
+      - path: c0032sanjiao_model10_geo1
+        weight: 1
+      - path: c0032sanjiao_model11_geo1
+        weight: 1
+      - path: c0032sanjiao_model12_geo1
+        weight: 1
+      - path: c0032sanjiao_model13_geo1
+        weight: 1
+      - path: c0032sanjiao_model14_geo1
+        weight: 1
+      - path: c0032sanjiao_model15_geo1
+        weight: 1
+      - path: c0032sanjiao_model16_geo1
+        weight: 1
+      - path: c0032sanjiao_model17_geo1
+        weight: 1
+      - path: c0032sanjiao_model18_geo1
+        weight: 1
+      - path: c0032sanjiao_model19_geo1
+        weight: 1
+      - path: c0032sanjiao_model20_geo1
+        weight: 1
+      - path: c0032sanjiao_model21_geo1
+        weight: 1
+      - path: c0032sanjiao_model22_geo1
+        weight: 1
+      - path: c0032sanjiao_model23_geo1
+        weight: 1
+      - path: c0032sanjiao_model24_geo1
+        weight: 1
+      - path: c0032sanjiao_model25_geo1
+        weight: 1
+      - path: c0032sanjiao_model26_geo1
+        weight: 1
+      - path: c0032sanjiao_model27_geo1
+        weight: 1
+      - path: c0032sanjiao_model28_geo1
+        weight: 1
+      - path: c0032sanjiao_model29_geo1
+        weight: 1
+      - path: c0032sanjiao_model30_geo1
+        weight: 1
+      - path: c0032sanjiao_model31_geo1
+        weight: 1
+      - path: c0032sanjiao_model32_geo1
+        weight: 1
+      - path: c0032sanjiao_model33_geo1
+        weight: 1
+      - path: c0032sanjiao_model34_geo1
+        weight: 1
+      - path: c0032sanjiao_model35_geo1
+        weight: 1
+      - path: c0032sanjiao_model36_geo1
+        weight: 1
+      - path: c0032sanjiao_model37_geo1
+        weight: 1
+      - path: c0032sanjiao_model38_geo
+        weight: 1
+      - path: c0032sanjiao_model39_geo
+        weight: 1
+      - path: c0032sanjiao_model40_geo
+        weight: 1
+      - path: c0032sanjiao_model41_geo
+        weight: 1
+      - path: c0032sanjiao_model42_geo
+        weight: 1
+      - path: c0032sanjiao_model43_geo
+        weight: 1
+      - path: c0032sanjiao_model44_geo
+        weight: 1
+      - path: c0032sanjiao_model45_geo
+        weight: 1
+      - path: c0032sanjiao_model46_geo
+        weight: 1
+      - path: c0032sanjiao_model47_geo
+        weight: 1
+      - path: c0032sanjiao_model48_geo
+        weight: 1
+      - path: c0032sanjiao_model49_geo
+        weight: 1
+      - path: c0032sanjiao_model50_geo
+        weight: 1
+      - path: c0032sanjiao_model51_geo
+        weight: 1
+      - path: c0032sanjiao_model52_geo
+        weight: 1
+      - path: c0032sanjiao_model53_geo
+        weight: 1
+      - path: c0032sanjiao_model54_geo
+        weight: 1
+      - path: c0032sanjiao_model55_geo
+        weight: 1
+      - path: c0032sanjiao_model56_geo
+        weight: 1
+      - path: c0032sanjiao_model57_geo
+        weight: 1
+      - path: c0032sanjiao_model58_geo
+        weight: 1
+      - path: c0032sanjiao_model59_geo
+        weight: 1
+      - path: c0032sanjiao_model60_geo
+        weight: 1
+      - path: c0032sanjiao_model61_geo
+        weight: 1
+      - path: c0032sanjiao_model62_geo
+        weight: 1
+      - path: c0032sanjiao_model63_geo
+        weight: 1
+      - path: c0032sanjiao_model64_geo
+        weight: 1
+      - path: c0032sanjiao_model65_geo
+        weight: 1
+      - path: c0032sanjiao_model66_geo
+        weight: 1
+      - path: c0032sanjiao_model67_geo
+        weight: 1
+      - path: c0032sanjiao_model68_geo
+        weight: 1
+      - path: c0032sanjiao_model69_geo
+        weight: 1
+      - path: c0032sanjiao_model70_geo
+        weight: 1
+      - path: c0032sanjiao_model71_geo
+        weight: 1
+      - path: c0032sanjiao_model72_geo
+        weight: 1
+      - path: c0032sanjiao_model73_geo
+        weight: 1
+      - path: c0032sanjiao_model74_geo
+        weight: 1
+      - path: c0032sanjiao_model76_geo
+        weight: 1
+      - path: c0032sanjiao_model77_geo
+        weight: 1
+      - path: c0032sanjiao_model78_geo
+        weight: 1
+      - path: c0032sanjiao_model79_geo
+        weight: 1
+      - path: c0032sanjiao_model80_geo
+        weight: 1
+      - path: c0032sanjiao_model81_geo
+        weight: 1
+      - path: c0032sanjiao_model82_geo
+        weight: 1
+      - path: c0032sanjiao_model83_geo
+        weight: 1
+      - path: c0032sanjiao_model84_geo
+        weight: 1
+      - path: c0032sanjiao_model85_geo
+        weight: 1
+      - path: c0032sanjiao_model86_geo
+        weight: 1
+      - path: c0032sanjiao_model87_geo
+        weight: 1
+      - path: c0032sanjiao_model88_geo
+        weight: 1
+      - path: c0032sanjiao_model89_geo
+        weight: 1
+      - path: c0032sanjiao_model90_geo
+        weight: 1
+      - path: c0032sanjiao_model91_geo
+        weight: 1
+      - path: c0032sanjiao_model92_geo
+        weight: 1
+      - path: c0032sanjiao_model93_geo
+        weight: 1
+      - path: c0032sanjiao_model94_geo
+        weight: 1
+      - path: c0032sanjiao_model95_geo
+        weight: 1
+      - path: c0032sanjiao_model96_geo
+        weight: 1
+      - path: c0032sanjiao_model97_geo
+        weight: 1
+      - path: c0032sanjiao_model98_geo
+        weight: 1
+      - path: c0032sanjiao_model99_geo
+        weight: 1
+      - path: c0032sanjiao_model100_geo
+        weight: 1
+      - path: c0032sanjiao_model101_geo
+        weight: 1
+      - path: c0032sanjiao_model102_geo
+        weight: 1
+      - path: c0032sanjiao_model103_geo
+        weight: 1
+      - path: c0032sanjiao_model104_geo
+        weight: 1
+      - path: c0032sanjiao_model105_geo
+        weight: 1
+      - path: c0032sanjiao_model106_geo
+        weight: 1
+      - path: c0032sanjiao_model107_geo
+        weight: 1
+      - path: c0032sanjiao_model108_geo
+        weight: 1
+      - path: c0032sanjiao_model109_geo
+        weight: 1
+      - path: c0032sanjiao_model110_geo
+        weight: 1
+      - path: c0032sanjiao_model111_geo
+        weight: 1
+      - path: c0032sanjiao_model112_geo
+        weight: 1
+      - path: c0032sanjiao_model113_geo
+        weight: 1
+      - path: c0032sanjiao_model114_geo
+        weight: 1
+      - path: c0032sanjiao_model115_geo
+        weight: 1
+      - path: c0032sanjiao_model116_geo
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

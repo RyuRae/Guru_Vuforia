@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 854b1b35e7c589e49a74cf482cbad74d
+timeCreated: 1515663716
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AirbCoPi
+    100002: AirbDor1
+    100004: AirbDor2
+    100006: AirbDor3
+    100008: AirbDor4
+    100010: AirbDor5
+    100012: AirbDor6
+    100014: AirbDor7
+    100016: AirbDor8
+    100018: AirbEngi
+    100020: AirbFuse
+    100022: AirbGeDo
+    100024: AirbGlas
+    100026: AirbLeSt
+    100028: AirbLeWi
+    100030: AirbPyl1
+    100032: AirbPyl2
+    100034: AirbReb
+    100036: AirbRiSt
+    100038: AirbRiWi
+    100040: AirbSilv
+    100042: Airbus
+    100044: AirbVeFi
+    100046: AirbWhee
+    100048: AirbWind
+    100050: Dummy01
+    100052: //RootNode
+    400000: AirbCoPi
+    400002: AirbDor1
+    400004: AirbDor2
+    400006: AirbDor3
+    400008: AirbDor4
+    400010: AirbDor5
+    400012: AirbDor6
+    400014: AirbDor7
+    400016: AirbDor8
+    400018: AirbEngi
+    400020: AirbFuse
+    400022: AirbGeDo
+    400024: AirbGlas
+    400026: AirbLeSt
+    400028: AirbLeWi
+    400030: AirbPyl1
+    400032: AirbPyl2
+    400034: AirbReb
+    400036: AirbRiSt
+    400038: AirbRiWi
+    400040: AirbSilv
+    400042: Airbus
+    400044: AirbVeFi
+    400046: AirbWhee
+    400048: AirbWind
+    400050: Dummy01
+    400052: //RootNode
+    2300000: AirbCoPi
+    2300002: AirbDor1
+    2300004: AirbDor2
+    2300006: AirbDor3
+    2300008: AirbDor4
+    2300010: AirbDor5
+    2300012: AirbDor6
+    2300014: AirbDor7
+    2300016: AirbDor8
+    2300018: AirbEngi
+    2300020: AirbFuse
+    2300022: AirbGeDo
+    2300024: AirbGlas
+    2300026: AirbLeSt
+    2300028: AirbLeWi
+    2300030: AirbPyl1
+    2300032: AirbPyl2
+    2300034: AirbReb
+    2300036: AirbRiSt
+    2300038: AirbRiWi
+    2300040: AirbSilv
+    2300042: AirbVeFi
+    2300044: AirbWhee
+    2300046: AirbWind
+    3300000: AirbCoPi
+    3300002: AirbDor1
+    3300004: AirbDor2
+    3300006: AirbDor3
+    3300008: AirbDor4
+    3300010: AirbDor5
+    3300012: AirbDor6
+    3300014: AirbDor7
+    3300016: AirbDor8
+    3300018: AirbEngi
+    3300020: AirbFuse
+    3300022: AirbGeDo
+    3300024: AirbGlas
+    3300026: AirbLeSt
+    3300028: AirbLeWi
+    3300030: AirbPyl1
+    3300032: AirbPyl2
+    3300034: AirbReb
+    3300036: AirbRiSt
+    3300038: AirbRiWi
+    3300040: AirbSilv
+    3300042: AirbVeFi
+    3300044: AirbWhee
+    3300046: AirbWind
+    4300000: AirbReb
+    4300002: AirbEngi
+    4300004: AirbDor3
+    4300006: AirbLeWi
+    4300008: AirbPyl1
+    4300010: AirbDor2
+    4300012: AirbDor1
+    4300014: AirbPyl2
+    4300016: AirbDor6
+    4300018: AirbDor7
+    4300020: AirbDor5
+    4300022: AirbWhee
+    4300024: AirbGeDo
+    4300026: AirbCoPi
+    4300028: AirbSilv
+    4300030: AirbFuse
+    4300032: AirbDor4
+    4300034: AirbRiWi
+    4300036: AirbVeFi
+    4300038: AirbRiSt
+    4300040: AirbWind
+    4300042: AirbDor8
+    4300044: AirbGlas
+    4300046: AirbLeSt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: b99a967f68be5384e9c9c7f1379cd9af
+timeCreated: 1499332927
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box03
+    100002: Cylinder05
+    100004: Cylinder06
+    100006: //RootNode
+    100008: Line31
+    100010: Line32
+    100012: Line33
+    100014: Line34
+    100016: Line35
+    100018: Line36
+    100020: Line37
+    100022: Line38
+    100024: Line39
+    100026: Line40
+    100028: Line41
+    100030: Line42
+    100032: Line43
+    100034: Line44
+    100036: Line45
+    100038: Rectangle05
+    100040: Rectangle06
+    100042: Sphere04
+    100044: Sphere07
+    100046: Tube04
+    100048: diaolan001
+    100050: Extinguisher_006
+    100052: fangfengdou001
+    100054: fanghuobu001
+    100056: fuhedai001
+    100058: gangsuo001
+    100060: guandinghuan001
+    100062: guandingsheng001
+    100064: jiangluosanfa001
+    100066: jiangluosanfasheng001
+    100068: qiangzhiqihuaquan001
+    100070: qiupi
+    100072: ranshaoqi001
+    100074: yetairanqi001
+    100076: zongpaiqikou001
+    400000: Box03
+    400002: Cylinder05
+    400004: Cylinder06
+    400006: //RootNode
+    400008: Line31
+    400010: Line32
+    400012: Line33
+    400014: Line34
+    400016: Line35
+    400018: Line36
+    400020: Line37
+    400022: Line38
+    400024: Line39
+    400026: Line40
+    400028: Line41
+    400030: Line42
+    400032: Line43
+    400034: Line44
+    400036: Line45
+    400038: Rectangle05
+    400040: Rectangle06
+    400042: Sphere04
+    400044: Sphere07
+    400046: Tube04
+    400048: diaolan001
+    400050: Extinguisher_006
+    400052: fangfengdou001
+    400054: fanghuobu001
+    400056: fuhedai001
+    400058: gangsuo001
+    400060: guandinghuan001
+    400062: guandingsheng001
+    400064: jiangluosanfa001
+    400066: jiangluosanfasheng001
+    400068: qiangzhiqihuaquan001
+    400070: qiupi
+    400072: ranshaoqi001
+    400074: yetairanqi001
+    400076: zongpaiqikou001
+    2300000: Box03
+    2300002: Cylinder05
+    2300004: Cylinder06
+    2300006: Sphere04
+    2300008: Sphere07
+    2300010: Tube04
+    2300012: diaolan001
+    2300014: Extinguisher_006
+    2300016: fangfengdou001
+    2300018: fanghuobu001
+    2300020: fuhedai001
+    2300022: gangsuo001
+    2300024: guandinghuan001
+    2300026: guandingsheng001
+    2300028: jiangluosanfa001
+    2300030: jiangluosanfasheng001
+    2300032: qiangzhiqihuaquan001
+    2300034: qiupi
+    2300036: ranshaoqi001
+    2300038: zongpaiqikou001
+    3300000: Box03
+    3300002: Cylinder05
+    3300004: Cylinder06
+    3300006: Sphere04
+    3300008: Sphere07
+    3300010: Tube04
+    3300012: diaolan001
+    3300014: Extinguisher_006
+    3300016: fangfengdou001
+    3300018: fanghuobu001
+    3300020: fuhedai001
+    3300022: gangsuo001
+    3300024: guandinghuan001
+    3300026: guandingsheng001
+    3300028: jiangluosanfa001
+    3300030: jiangluosanfasheng001
+    3300032: qiangzhiqihuaquan001
+    3300034: qiupi
+    3300036: ranshaoqi001
+    3300038: zongpaiqikou001
+    4300000: Sphere04
+    4300002: Sphere07
+    4300004: Tube04
+    4300006: Box03
+    4300008: Cylinder05
+    4300010: Cylinder06
+    4300012: qiupi
+    4300014: ranshaoqi001
+    4300016: diaolan001
+    4300018: Extinguisher_006
+    4300020: gangsuo001
+    4300022: jiangluosanfa001
+    4300024: fuhedai001
+    4300026: qiangzhiqihuaquan001
+    4300028: jiangluosanfasheng001
+    4300030: guandinghuan001
+    4300032: guandingsheng001
+    4300034: fangfengdou001
+    4300036: fanghuobu001
+    4300038: zongpaiqikou001
+    7400000: R_R
+    7400002: R_L
+    7400004: L_L
+    7400006: L_R
+    7400008: B_B
+    7400010: B_F
+    7400012: F_F
+    7400014: F_B
+    7400016: U_U
+    7400018: U_D
+    7400020: D_D
+    7400022: D_U
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: R_R
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_L
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L_L
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: L_R
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: B_B
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: B_F
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: F_F
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: F_B
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: U_U
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: U_D
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: D_D
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: D_U
+      takeName: Take 001
+      firstFrame: 550
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diaolan001
+        weight: 1
+      - path: fangfengdou001
+        weight: 1
+      - path: fanghuobu001
+        weight: 1
+      - path: fuhedai001
+        weight: 1
+      - path: gangsuo001
+        weight: 1
+      - path: guandinghuan001
+        weight: 1
+      - path: guandingsheng001
+        weight: 1
+      - path: jiangluosanfa001
+        weight: 1
+      - path: jiangluosanfasheng001
+        weight: 1
+      - path: qiangzhiqihuaquan001
+        weight: 1
+      - path: qiupi
+        weight: 1
+      - path: ranshaoqi001
+        weight: 1
+      - path: yetairanqi001
+        weight: 1
+      - path: yetairanqi001/Extinguisher_006
+        weight: 1
+      - path: zongpaiqikou001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

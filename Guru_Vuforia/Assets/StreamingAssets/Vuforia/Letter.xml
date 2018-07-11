@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="z_letter" size="1.000000 1.432394" />
+    <ImageTarget name="y_letter" size="1.000000 1.432394" />
+    <ImageTarget name="x_letter" size="1.000000 1.432394" />
+    <ImageTarget name="w_letter" size="1.000000 1.434415" />
+    <ImageTarget name="v_letter" size="1.000000 1.432394" />
+    <ImageTarget name="u_letter" size="1.000000 1.434415" />
+    <ImageTarget name="t_letter" size="1.000000 1.432394" />
+    <ImageTarget name="s_letter" size="1.000000 1.434415" />
+    <ImageTarget name="r_letter" size="1.000000 1.433004" />
+    <ImageTarget name="q_letter" size="1.000000 1.430986" />
+    <ImageTarget name="p_letter" size="1.000000 1.416894" />
+    <ImageTarget name="o_letter" size="1.000000 1.430986" />
+    <ImageTarget name="n_letter" size="1.000000 1.433004" />
+    <ImageTarget name="m_letter" size="1.000000 1.430986" />
+    <ImageTarget name="l_letter" size="1.000000 1.433004" />
+    <ImageTarget name="k_letter" size="1.000000 1.430986" />
+    <ImageTarget name="j_letter" size="1.000000 1.433004" />
+    <ImageTarget name="i_letter" size="1.000000 1.405548" />
+    <ImageTarget name="h_letter" size="1.000000 1.432394" />
+    <ImageTarget name="g_letter" size="1.000000 1.432394" />
+    <ImageTarget name="f_letter" size="1.000000 1.432394" />
+    <ImageTarget name="e_letter" size="1.000000 1.387449" />
+    <ImageTarget name="d_letter" size="1.000000 1.432394" />
+    <ImageTarget name="c_letter" size="1.000000 1.434415" />
+    <ImageTarget name="b_letter" size="1.000000 1.432394" />
+    <ImageTarget name="a_letter" size="1.000000 1.434415" />
+  </Tracking>
+</QCARConfig>

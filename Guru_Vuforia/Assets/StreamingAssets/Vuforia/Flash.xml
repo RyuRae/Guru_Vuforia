@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yellow" size="1.000000 0.998700" />
+    <ImageTarget name="violin" size="1.000000 0.998700" />
+    <ImageTarget name="this" size="1.000000 1.000000" />
+    <ImageTarget name="the" size="1.000000 1.000000" />
+    <ImageTarget name="swim" size="1.000000 1.000000" />
+    <ImageTarget name="spaceship" size="1.000000 1.000000" />
+    <ImageTarget name="ship" size="1.000000 1.001302" />
+    <ImageTarget name="run" size="1.000000 0.998700" />
+    <ImageTarget name="roar" size="1.000000 0.998700" />
+    <ImageTarget name="red" size="1.000000 0.998700" />
+    <ImageTarget name="purple" size="1.000000 0.998700" />
+    <ImageTarget name="pink" size="1.000000 0.998700" />
+    <ImageTarget name="pig" size="1.000000 1.000000" />
+    <ImageTarget name="orange" size="1.000000 1.000000" />
+    <ImageTarget name="motorcycle" size="1.000000 1.000000" />
+    <ImageTarget name="monkey" size="1.000000 1.001263" />
+    <ImageTarget name="little" size="1.000000 1.000000" />
+    <ImageTarget name="lion" size="1.000000 1.001302" />
+    <ImageTarget name="kangaroo" size="1.000000 1.001263" />
+    <ImageTarget name="jump" size="1.000000 0.998700" />
+    <ImageTarget name="it" size="1.000000 0.998700" />
+    <ImageTarget name="is" size="1.000000 1.000000" />
+    <ImageTarget name="ice-cream" size="1.000000 1.000000" />
+    <ImageTarget name="green" size="1.000000 0.998700" />
+    <ImageTarget name="frog" size="1.000000 1.000000" />
+    <ImageTarget name="duck" size="1.000000 1.001263" />
+    <ImageTarget name="dolphin" size="1.000000 1.000000" />
+    <ImageTarget name="dog" size="1.000000 1.000000" />
+    <ImageTarget name="crab" size="1.000000 1.000000" />
+    <ImageTarget name="cat" size="1.000000 1.001263" />
+    <ImageTarget name="can" size="1.000000 0.998700" />
+    <ImageTarget name="blue" size="1.000000 1.000000" />
+    <ImageTarget name="big" size="1.000000 0.998739" />
+    <ImageTarget name="apple" size="1.000000 1.001263" />
+    <ImageTarget name="an" size="1.000000 1.001302" />
+    <ImageTarget name="a" size="1.000000 1.001302" />
+  </Tracking>
+</QCARConfig>

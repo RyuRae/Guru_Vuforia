@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: d6752d6acafbf4044813db8cb8c10769
+timeCreated: 1515663720
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box04
+    100002: Box05
+    100004: Box06
+    100006: cesna asiento dcho
+    100008: cesna asiento izq
+    100010: cessna 150
+    100012: cessna ala
+    100014: cessna alas
+    100016: cessna aleron02
+    100018: cessna aleron03
+    100020: cessna alita dcha.
+    100022: cessna alita izq.
+    100024: cessna amortiguador
+    100026: cessna asientos
+    100028: cessna cristal sup dcha.
+    100030: cessna cristal sup. izq.
+    100032: cessna cuadro de mandos
+    100034: cessna fijacion ala dcha
+    100036: cessna fijacion ala izq.
+    100038: cessna flag
+    100040: cessna flag 1
+    100042: cessna fuselaje
+    100044: cessna guardabarros
+    100046: cessna guardabarros 2
+    100048: cessna guardabarros 3
+    100050: cessna helices
+    100052: cessna llanta
+    100054: cessna llanta 2
+    100056: cessna llanta 3
+    100058: cessna llanta 4
+    100060: cessna llanta 5
+    100062: cessna llanta1
+    100064: cessna luna delantera
+    100066: cessna luna trasera
+    100068: cessna pala 1
+    100070: cessna pala 2
+    100072: cessna pata rueda
+    100074: cessna pata rueda 1
+    100076: cessna pico helices
+    100078: cessna piloto ala
+    100080: cessna piloto alto cola
+    100082: cessna piloto tras cola
+    100084: cessna respaldo asiento dcho
+    100086: cessna respaldo asiento izq.
+    100088: cessna rueda
+    100090: cessna rueda 1
+    100092: cessna rueda 1 1
+    100094: cessna rueda 1 1 1
+    100096: cessna rueda 2
+    100098: cessna rueda delantera
+    100100: cessna ventanilla dcha.
+    100102: cessna ventanilla izq.
+    100104: Circle01
+    100106: Circle02
+    100108: Circle03
+    100110: Circle04
+    100112: Circle05
+    100114: Circle06
+    100116: Circle07
+    100118: Circle08
+    100120: Circle09
+    100122: Circle10
+    100124: Circle11
+    100126: Circle12
+    100128: Circle13
+    100130: cuadro
+    100132: Dummy01
+    100134: Loft05
+    100136: Loft06
+    100138: //RootNode
+    100140: Rectangle02
+    100142: Rectangle03
+    100144: Rectangle04
+    100146: Torus04
+    100148: Torus05
+    100150: Torus06
+    100152: Torus07
+    100154: Torus08
+    100156: Torus09
+    100158: Torus10
+    100160: Torus11
+    100162: Torus12
+    100164: Torus13
+    100166: Torus14
+    100168: Torus15
+    100170: Torus16
+    400000: Box04
+    400002: Box05
+    400004: Box06
+    400006: cesna asiento dcho
+    400008: cesna asiento izq
+    400010: cessna 150
+    400012: cessna ala
+    400014: cessna alas
+    400016: cessna aleron02
+    400018: cessna aleron03
+    400020: cessna alita dcha.
+    400022: cessna alita izq.
+    400024: cessna amortiguador
+    400026: cessna asientos
+    400028: cessna cristal sup dcha.
+    400030: cessna cristal sup. izq.
+    400032: cessna cuadro de mandos
+    400034: cessna fijacion ala dcha
+    400036: cessna fijacion ala izq.
+    400038: cessna flag
+    400040: cessna flag 1
+    400042: cessna fuselaje
+    400044: cessna guardabarros
+    400046: cessna guardabarros 2
+    400048: cessna guardabarros 3
+    400050: cessna helices
+    400052: cessna llanta
+    400054: cessna llanta 2
+    400056: cessna llanta 3
+    400058: cessna llanta 4
+    400060: cessna llanta 5
+    400062: cessna llanta1
+    400064: cessna luna delantera
+    400066: cessna luna trasera
+    400068: cessna pala 1
+    400070: cessna pala 2
+    400072: cessna pata rueda
+    400074: cessna pata rueda 1
+    400076: cessna pico helices
+    400078: cessna piloto ala
+    400080: cessna piloto alto cola
+    400082: cessna piloto tras cola
+    400084: cessna respaldo asiento dcho
+    400086: cessna respaldo asiento izq.
+    400088: cessna rueda
+    400090: cessna rueda 1
+    400092: cessna rueda 1 1
+    400094: cessna rueda 1 1 1
+    400096: cessna rueda 2
+    400098: cessna rueda delantera
+    400100: cessna ventanilla dcha.
+    400102: cessna ventanilla izq.
+    400104: Circle01
+    400106: Circle02
+    400108: Circle03
+    400110: Circle04
+    400112: Circle05
+    400114: Circle06
+    400116: Circle07
+    400118: Circle08
+    400120: Circle09
+    400122: Circle10
+    400124: Circle11
+    400126: Circle12
+    400128: Circle13
+    400130: cuadro
+    400132: Dummy01
+    400134: Loft05
+    400136: Loft06
+    400138: //RootNode
+    400140: Rectangle02
+    400142: Rectangle03
+    400144: Rectangle04
+    400146: Torus04
+    400148: Torus05
+    400150: Torus06
+    400152: Torus07
+    400154: Torus08
+    400156: Torus09
+    400158: Torus10
+    400160: Torus11
+    400162: Torus12
+    400164: Torus13
+    400166: Torus14
+    400168: Torus15
+    400170: Torus16
+    2300000: Box04
+    2300002: Box05
+    2300004: Box06
+    2300006: cesna asiento dcho
+    2300008: cesna asiento izq
+    2300010: cessna ala
+    2300012: cessna aleron02
+    2300014: cessna aleron03
+    2300016: cessna alita dcha.
+    2300018: cessna alita izq.
+    2300020: cessna amortiguador
+    2300022: cessna cristal sup dcha.
+    2300024: cessna cristal sup. izq.
+    2300026: cessna fijacion ala dcha
+    2300028: cessna fijacion ala izq.
+    2300030: cessna flag
+    2300032: cessna flag 1
+    2300034: cessna fuselaje
+    2300036: cessna guardabarros
+    2300038: cessna guardabarros 2
+    2300040: cessna guardabarros 3
+    2300042: cessna llanta
+    2300044: cessna llanta 2
+    2300046: cessna llanta 3
+    2300048: cessna llanta 4
+    2300050: cessna llanta 5
+    2300052: cessna llanta1
+    2300054: cessna luna delantera
+    2300056: cessna luna trasera
+    2300058: cessna pala 1
+    2300060: cessna pala 2
+    2300062: cessna pata rueda
+    2300064: cessna pata rueda 1
+    2300066: cessna pico helices
+    2300068: cessna piloto ala
+    2300070: cessna piloto alto cola
+    2300072: cessna piloto tras cola
+    2300074: cessna respaldo asiento dcho
+    2300076: cessna respaldo asiento izq.
+    2300078: cessna rueda 1 1
+    2300080: cessna rueda 1 1 1
+    2300082: cessna rueda 2
+    2300084: cessna ventanilla dcha.
+    2300086: cessna ventanilla izq.
+    2300088: Circle01
+    2300090: Circle02
+    2300092: Circle03
+    2300094: Circle04
+    2300096: Circle05
+    2300098: Circle06
+    2300100: Circle07
+    2300102: Circle08
+    2300104: Circle09
+    2300106: Circle10
+    2300108: Circle11
+    2300110: Circle12
+    2300112: Circle13
+    2300114: cuadro
+    2300116: Loft05
+    2300118: Loft06
+    2300120: Rectangle02
+    2300122: Rectangle03
+    2300124: Rectangle04
+    2300126: Torus04
+    2300128: Torus05
+    2300130: Torus06
+    2300132: Torus07
+    2300134: Torus08
+    2300136: Torus09
+    2300138: Torus10
+    2300140: Torus11
+    2300142: Torus12
+    2300144: Torus13
+    2300146: Torus14
+    2300148: Torus15
+    2300150: Torus16
+    3300000: Box04
+    3300002: Box05
+    3300004: Box06
+    3300006: cesna asiento dcho
+    3300008: cesna asiento izq
+    3300010: cessna ala
+    3300012: cessna aleron02
+    3300014: cessna aleron03
+    3300016: cessna alita dcha.
+    3300018: cessna alita izq.
+    3300020: cessna amortiguador
+    3300022: cessna cristal sup dcha.
+    3300024: cessna cristal sup. izq.
+    3300026: cessna fijacion ala dcha
+    3300028: cessna fijacion ala izq.
+    3300030: cessna flag
+    3300032: cessna flag 1
+    3300034: cessna fuselaje
+    3300036: cessna guardabarros
+    3300038: cessna guardabarros 2
+    3300040: cessna guardabarros 3
+    3300042: cessna llanta
+    3300044: cessna llanta 2
+    3300046: cessna llanta 3
+    3300048: cessna llanta 4
+    3300050: cessna llanta 5
+    3300052: cessna llanta1
+    3300054: cessna luna delantera
+    3300056: cessna luna trasera
+    3300058: cessna pala 1
+    3300060: cessna pala 2
+    3300062: cessna pata rueda
+    3300064: cessna pata rueda 1
+    3300066: cessna pico helices
+    3300068: cessna piloto ala
+    3300070: cessna piloto alto cola
+    3300072: cessna piloto tras cola
+    3300074: cessna respaldo asiento dcho
+    3300076: cessna respaldo asiento izq.
+    3300078: cessna rueda 1 1
+    3300080: cessna rueda 1 1 1
+    3300082: cessna rueda 2
+    3300084: cessna ventanilla dcha.
+    3300086: cessna ventanilla izq.
+    3300088: Circle01
+    3300090: Circle02
+    3300092: Circle03
+    3300094: Circle04
+    3300096: Circle05
+    3300098: Circle06
+    3300100: Circle07
+    3300102: Circle08
+    3300104: Circle09
+    3300106: Circle10
+    3300108: Circle11
+    3300110: Circle12
+    3300112: Circle13
+    3300114: cuadro
+    3300116: Loft05
+    3300118: Loft06
+    3300120: Rectangle02
+    3300122: Rectangle03
+    3300124: Rectangle04
+    3300126: Torus04
+    3300128: Torus05
+    3300130: Torus06
+    3300132: Torus07
+    3300134: Torus08
+    3300136: Torus09
+    3300138: Torus10
+    3300140: Torus11
+    3300142: Torus12
+    3300144: Torus13
+    3300146: Torus14
+    3300148: Torus15
+    3300150: Torus16
+    4300000: cessna aleron02
+    4300002: cessna flag
+    4300004: cessna flag 1
+    4300006: cessna aleron03
+    4300008: cessna ala
+    4300010: cessna respaldo asiento izq.
+    4300012: cessna respaldo asiento dcho
+    4300014: cesna asiento dcho
+    4300016: cesna asiento izq
+    4300018: Circle08
+    4300020: Circle05
+    4300022: Circle03
+    4300024: Box06
+    4300026: Loft06
+    4300028: Circle01
+    4300030: Rectangle04
+    4300032: Circle07
+    4300034: Torus06
+    4300036: Circle13
+    4300038: Torus05
+    4300040: Torus09
+    4300042: Torus13
+    4300044: Circle02
+    4300046: Circle09
+    4300048: Torus14
+    4300050: Torus11
+    4300052: Torus12
+    4300054: Circle10
+    4300056: Torus04
+    4300058: Rectangle03
+    4300060: Circle11
+    4300062: Torus16
+    4300064: Torus15
+    4300066: Circle12
+    4300068: Rectangle02
+    4300070: Torus08
+    4300072: Torus10
+    4300074: Circle06
+    4300076: Circle04
+    4300078: Torus07
+    4300080: Box05
+    4300082: Box04
+    4300084: cuadro
+    4300086: Loft05
+    4300088: cessna pala 1
+    4300090: cessna pala 2
+    4300092: cessna pico helices
+    4300094: cessna llanta 5
+    4300096: cessna llanta 4
+    4300098: cessna rueda 2
+    4300100: cessna pata rueda 1
+    4300102: cessna guardabarros 3
+    4300104: cessna llanta 2
+    4300106: cessna amortiguador
+    4300108: cessna llanta 3
+    4300110: cessna rueda 1
+    4300112: cessna guardabarros 2
+    4300114: cessna llanta1
+    4300116: cessna rueda
+    4300118: cessna llanta
+    4300120: cessna pata rueda
+    4300122: cessna guardabarros
+    4300124: cessna alita dcha.
+    4300126: cessna alita izq.
+    4300128: cessna cristal sup dcha.
+    4300130: cessna cristal sup. izq.
+    4300132: cessna fijacion ala dcha
+    4300134: cessna fijacion ala izq.
+    4300136: cessna fuselaje
+    4300138: cessna luna delantera
+    4300140: cessna luna trasera
+    4300142: cessna piloto ala
+    4300144: cessna piloto alto cola
+    4300146: cessna piloto tras cola
+    4300148: cessna ventanilla dcha.
+    4300150: cessna ventanilla izq.
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zebra1" size="1.000000 1.000000" />
+    <ImageTarget name="velociraptor" size="1.000000 0.999171" />
+    <ImageTarget name="tyrannosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="triceratops" size="1.000000 1.000000" />
+    <ImageTarget name="tower-crane" size="1.000000 1.000830" />
+    <ImageTarget name="tank" size="1.000000 1.000000" />
+    <ImageTarget name="stegosaurus" size="1.000000 1.000830" />
+    <ImageTarget name="spinosaurus" size="1.000000 0.999171" />
+    <ImageTarget name="self-propelled-gun" size="1.000000 1.000830" />
+    <ImageTarget name="rhino" size="1.000000 1.000830" />
+    <ImageTarget name="reindeer" size="1.000000 1.000000" />
+    <ImageTarget name="pig1" size="1.000000 1.000830" />
+    <ImageTarget name="parasaurolophus" size="1.000000 0.999171" />
+    <ImageTarget name="panda" size="1.000000 1.000000" />
+    <ImageTarget name="lioness" size="1.000000 1.000000" />
+    <ImageTarget name="lion1" size="1.000000 1.000000" />
+    <ImageTarget name="howitzer" size="1.000000 1.000000" />
+    <ImageTarget name="hot-air-balloon" size="1.000000 1.000830" />
+    <ImageTarget name="hippo" size="1.000000 1.000000" />
+    <ImageTarget name="glider" size="1.000000 1.000000" />
+    <ImageTarget name="fieldpiece" size="1.000000 1.000000" />
+    <ImageTarget name="ferris-wheel" size="1.000000 1.000000" />
+    <ImageTarget name="elephant" size="1.000000 1.000830" />
+    <ImageTarget name="crocodile" size="1.000000 1.000830" />
+    <ImageTarget name="carnotaurus" size="1.000000 1.000830" />
+    <ImageTarget name="car" size="1.000000 1.000830" />
+    <ImageTarget name="brontosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="bear" size="1.000000 1.000000" />
+    <ImageTarget name="ankylosaur" size="1.000000 1.000000" />
+    <ImageTarget name="airbus" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
